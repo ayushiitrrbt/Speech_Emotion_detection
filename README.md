@@ -35,9 +35,4 @@ This project is a web-based **Speech Emotion Recognition (SER)** system built wi
    Passes the processed input to a trained Keras model for emotion prediction.
 
 5. **Output**  
-   Displays the predicted emotion and a bar chart of confidence scores.
-
----
-
-## 📁 Folder Structure
-
+   Displays the predicted emotion 
