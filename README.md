@@ -36,3 +36,11 @@ This project is a web-based **Speech Emotion Recognition (SER)** system built wi
 
 5. **Output**  
    Displays the predicted emotion 
+
+## 🖥️ Running the Project Locally
+
+```bash
+git clone https://github.com/ayushiitrrbt/Speech_Emotion_detection.git && \
+cd Speech_Emotion_detection && \
+pip install -r requirements.txt && \
+streamlit run app/streamlit_app.py
